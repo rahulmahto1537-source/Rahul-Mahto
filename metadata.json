@@ -1,0 +1,7 @@
+{
+  "name": "Chronos Project Timeline Tracking",
+  "description": "Enterprise project management platform with interactive Gantt timeline, delay tracking, field activities feed, and version-controlled media/docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
